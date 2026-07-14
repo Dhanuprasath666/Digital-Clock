@@ -44,7 +44,7 @@ Digital Clock/
 
 ## 📸 Screenshot
 
-*(Add a screenshot of the project here.)*
+<img width="1906" height="1022" alt="Screenshot 2026-07-14 060345" src="https://github.com/user-attachments/assets/71f59a86-8147-4921-aad7-c1bac14babb0" />
 
 ---
 
